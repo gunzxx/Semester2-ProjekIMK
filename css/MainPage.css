@@ -5278,7 +5278,7 @@
   height: -webkit-min-content;
   height: -moz-min-content;
   height: min-content;
-  width: 1440px;
+  width: 100%;
   min-width: 1440px;
   margin: 0px auto;
 }
