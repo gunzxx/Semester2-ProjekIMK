@@ -4,6 +4,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Login - My Konseling</title>
 
     <link
       rel="stylesheet"
@@ -12,15 +13,12 @@
       integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    
     <link rel="stylesheet" type="text/css" href="./css/common.css" />
     <link rel="stylesheet" type="text/css" href="./css/fonts.css" />
     <link rel="stylesheet" type="text/css" href="./css/Login.css" />
 
-    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
-	<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
-	<script src="./js/login.js"></script>
+   
  </head>
 
   <body style="display: flex; flex-direction: column">
@@ -51,14 +49,15 @@ Kembali di Konseling Ku</pre
               <div class="login-block5 layout">
                 <h2 class="login-medium-title1 layout">Belum punya akun?</h2>
                 <div class="login-block5-spacer"></div>
-                <h2 class="login-medium-title2 layout">Daftar Yuk</h2>
+                <a href="Register.html" class="login-medium-title2 layout">Daftar Yuk</a>
               </div>
             </div>
 			
             <div class="login-block6 layout"><h5 class="login-highlights layout">Login dengan google</h5></div>
             <div class="login-block7 layout">
-              <h5 class="login-highlights1 layout">Email</h5>
+              
 			  <form>
+          <h5 class="login-highlights1 layout">Email</h5>
 				<input class="login-block8 layout" type="text" id="lname" name="lname" placeholder="Masukkan Email">
 				</form>
             </div>
@@ -66,10 +65,10 @@ Kembali di Konseling Ku</pre
               <h5 class="login-highlights11 layout">Password</h5>
               <form >
 				<input class="login-block8 layout" type="text" id="lname" name="lname" placeholder="Masukkan Password">
+        <div class="login-block11 layout"><a href="MainPage.html" class="login-subtitle layout">Masuk</a></div>
 				</form>  
 			</div>
-            <div class="login-block11 layout"><h3 class="login-subtitle layout">Masuk</h3></div>
-            <h2 class="login-medium-title3 layout">Lupa password</h2>
+            <a href="LupaPassword.html" class="login-medium-title3 layout">Lupa password</a>
           </div>
         </div>
         <div class="login-block2-spacer"></div>
@@ -78,8 +77,12 @@ Kembali di Konseling Ku</pre
         </div>
       </div>
     </div>
-    <script type="text/javascript">
+     <!-- <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script> -->
+  <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+  <script src="./js/login.js"></script>
+    <!-- <script type="text/javascript">
       AOS.init();
-    </script>
+    </script> -->
   </body>
 </html>
