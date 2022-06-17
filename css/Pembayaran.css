@@ -1,0 +1,1306 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.pembayaran-content-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #b8e3ff;
+}
+.pembayaran-content-box.layout {
+  position: relative;
+  min-height: 1024px;
+  flex-shrink: 0;
+}
+.header-block {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+.header-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-logo{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 176px;
+  cursor: pointer;
+}
+.header-block-logo-item {
+  display: flex;
+}
+.header-block-logo-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px 16px 34px;
+}
+@media (max-width: 1199px) {
+  .header-block-logo-item.layout {
+    margin: 14px 0px 14px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-logo-item.layout {
+    margin: 12px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-logo-item.layout {
+    margin: 10px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-logo-item.layout {
+    margin: 9px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-logo-item.layout {
+    margin: 8px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-logo-item.layout {
+    margin: 8px 15px;
+  }
+}
+.header-block-logo-item-gambar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 42px;
+}
+.pembayaran-img {
+  background: var(--src) center center/contain no-repeat;
+}
+.pembayaran-img.layout {
+  position: relative;
+  height: 58px;
+  width: 42px;
+  min-width: 42px;
+}
+.header-block-logo-item-gambar1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 100px;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.header-block-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Port Lligat Sans", Helvetica, Arial, serif;
+  color: #383838;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title {
+    font-size: 16px;
+  }
+}
+.header-block1-spacer {
+  flex: 1 1 446px;
+}
+.konsultasi-block1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 818px;
+}
+.header-block-item {
+  display: flex;
+}
+.header-block-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 818px;
+  min-width: 818px;
+  margin: 20px 0px;
+}
+@media (max-width: 1199px) {
+  .header-block-item.layout {
+    margin: 18px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-item.layout {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-item.layout {
+    margin: 13px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-item.layout {
+    margin: 11px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-item.layout {
+    margin: 10px 0px;
+  }
+}
+.header-block-item-link {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 0 auto;
+}
+.konsultasi-medium-title1 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-layanan {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-konsultasi {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-testimoni {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-kerjasama {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-tentang {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-medium-title1:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-layanan:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-konsultasi:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-testimoni:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-kerjasama:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-tentang:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-medium-title1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-layanan.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-tentang.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-testimoni.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-konsultasi.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-spacer {
+  flex: 0 1 24px;
+}
+.header-block-item-spacer1 {
+  flex: 0 1 27px;
+}
+.header-block-item-link1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 50px;
+}
+.header-profil-icon {
+  background: var(--src) center center/contain no-repeat;
+  cursor: pointer;
+}
+.header-profil-icon.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+}
+.pembayaran-group1 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-group1.layout {
+  position: relative;
+  height: 600px;
+  width: 800px;
+  min-width: 800px;
+  margin: 71px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-group1.layout {
+    margin: 61px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-group1.layout {
+    width: 1067px;
+    min-width: 1067px;
+    margin: 50px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-group1.layout {
+    width: 1423px;
+    min-width: 1423px;
+    margin: 41px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-group1.layout {
+    width: 1897px;
+    min-width: 1897px;
+    margin: 36px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-group1.layout {
+    width: 2529px;
+    min-width: 2529px;
+    margin: 31px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-group1.layout {
+    width: 3372px;
+    min-width: 3372px;
+    margin: 28px auto 0px;
+  }
+}
+.pembayaran-group2 {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+}
+.pembayaran-group2.layout {
+  position: absolute;
+  top: -1px;
+  height: 100px;
+  width: 800px;
+  right: 0px;
+}
+.pembayaran-flex3 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-flex3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 4px 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-flex3.layout {
+    margin: 5px 0px;
+  }
+}
+.pembayaran-group3 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-group3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 800px;
+  min-width: 800px;
+}
+.pembayaran-txt6 {
+  display: flex;
+  justify-content: flex-end;
+  font: 24px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt6 {
+    font-size: 22px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt6 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt6 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt6 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt6 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt6 {
+    font-size: 16px;
+  }
+}
+.pembayaran-txt6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 41.75%;
+  margin: 11px auto;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt6.layout {
+    margin: 10px auto;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt6.layout {
+    margin: 8px auto;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt6.layout {
+    margin: 7px auto;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt6.layout {
+    margin: 6px auto;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt6.layout {
+    width: 48.85%;
+    margin: 5px auto;
+  }
+}
+.pembayaran-group4 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-group4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-flex4 {
+  display: flex;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex4 {
+    flex-wrap: wrap;
+    row-gap: 16px;
+  }
+}
+.pembayaran-flex4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 10px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-flex4.layout {
+    margin: 0px 9px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-flex4.layout {
+    margin: 0px 7px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-flex4.layout {
+    margin: 0px 6px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-flex4.layout {
+    margin: 0px 5px;
+  }
+}
+.pembayaran-flex4-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 194px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex4-item {
+    flex: 0 0 100%;
+  }
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.pembayaran-txt7-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-txt7 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 16px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt7 {
+    font-size: 15px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt7 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt7 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt7 {
+    font-size: 12px;
+  }
+}
+.pembayaran-flex4-spacer {
+  flex: 0 1 492px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex4-spacer {
+    display: none;
+  }
+}
+.pembayaran-flex4-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 94px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex4-item1 {
+    flex: 0 0 100%;
+  }
+}
+.pembayaran-txt8-box {
+  display: flex;
+  justify-content: flex-end;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt8-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt8-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt8-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt8-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+.pembayaran-txt8-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-txt8 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 16px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt8 {
+    font-size: 15px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt8 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt8 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt8 {
+    font-size: 12px;
+  }
+}
+.pembayaran-group5 {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+}
+.pembayaran-group5.layout {
+  position: absolute;
+  top: 101px;
+  height: 500px;
+  width: 800px;
+  right: 0px;
+}
+.pembayaran-flex5 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-flex5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 9px 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-flex5.layout {
+    margin: 8px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-flex5.layout {
+    margin: 7px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-flex5.layout {
+    margin: 6px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-flex5.layout {
+    margin: 5px 0px;
+  }
+}
+.pembayaran-group6 {
+  display: flex;
+  flex-direction: column;
+}
+.pembayaran-group6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-flex6 {
+  display: flex;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex6 {
+    flex-wrap: wrap;
+    row-gap: 16px;
+  }
+}
+.pembayaran-flex6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 780px;
+  min-width: 780px;
+  margin: 1px 10px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-flex6.layout {
+    margin: 5px 9px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-flex6.layout {
+    margin: 5px 7px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-flex6.layout {
+    margin: 5px 6px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-flex6.layout {
+    margin: 5px;
+  }
+}
+.pembayaran-flex6-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 133px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex6-item {
+    flex: 0 0 100%;
+  }
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt9-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt9-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt9-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt9-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.pembayaran-txt9-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-txt9 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 18px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt9 {
+    font-size: 17px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt9 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt9 {
+    font-size: 15px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt9 {
+    font-size: 14px;
+  }
+}
+.pembayaran-flex6-spacer {
+  flex: 0 1 473px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex6-spacer {
+    display: none;
+  }
+}
+.pembayaran-flex6-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 174px;
+}
+@media (max-width: 767px) {
+  .pembayaran-flex6-item1 {
+    flex: 0 0 100%;
+  }
+}
+.pembayaran-txt10-box {
+  display: flex;
+  justify-content: flex-end;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+.pembayaran-txt10-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pembayaran-txt10 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 18px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt10 {
+    font-size: 17px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt10 {
+    font-size: 16px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt10 {
+    font-size: 15px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt10 {
+    font-size: 14px;
+  }
+}
+.pembayaran-txt11 {
+  display: flex;
+  justify-content: center;
+  font: 20px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt11 {
+    font-size: 19px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt11 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt11 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt11 {
+    font-size: 16px;
+  }
+}
+.pembayaran-txt11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 800px;
+  min-width: 800px;
+  margin: 29px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt11.layout {
+    margin: 25px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt11.layout {
+    margin: 22px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt11.layout {
+    margin: 18px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt11.layout {
+    margin: 17px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt11.layout {
+    margin: 15px 0px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt11.layout {
+    margin: 14px 0px 0px;
+  }
+}
+.pembayaran-img.layout2 {
+  position: relative;
+  height: 209px;
+  width: 208px;
+  min-width: 208px;
+  margin: 29px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-img.layout2 {
+    margin: 25px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-img.layout2 {
+    margin: 22px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-img.layout2 {
+    margin: 18px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-img.layout2 {
+    margin: 17px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-img.layout2 {
+    margin: 15px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-img.layout2 {
+    margin: 14px auto 0px;
+  }
+}
+.pembayaran-txt12 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt12 {
+    font-size: 22px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt12 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt12 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt12 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt12 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt12 {
+    font-size: 16px;
+  }
+}
+.pembayaran-txt12.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 385px;
+  min-width: 385px;
+  margin: 29px auto 83px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt12.layout {
+    margin: 25px auto 70px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt12.layout {
+    margin: 22px auto 56px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt12.layout {
+    margin: 18px auto 44px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt12.layout {
+    margin: 17px auto 38px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt12.layout {
+    margin: 15px auto 32px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt12.layout {
+    margin: 14px auto 27px;
+  }
+}
+.pembayaran-group7 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pembayaran-group7:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pembayaran-group7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 20.9%;
+  margin: 71px auto 124px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-group7.layout {
+    margin: 61px auto 101px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-group7.layout {
+    margin: 50px auto 76px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-group7.layout {
+    margin: 41px auto 54px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-group7.layout {
+    margin: 36px auto 44px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-group7.layout {
+    margin: 31px auto 33px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-group7.layout {
+    margin: 28px auto 26px;
+  }
+}
+.pembayaran-txt13 {
+  display: flex;
+  justify-content: center;
+  font: 32px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt13 {
+    font-size: 29px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt13 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt13 {
+    font-size: 23px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt13 {
+    font-size: 21px;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt13 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt13 {
+    font-size: 19px;
+  }
+}
+.pembayaran-txt13.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 31.89%;
+  margin: 11px auto 10px;
+}
+@media (max-width: 1199px) {
+  .pembayaran-txt13.layout {
+    margin: 10px auto 9px;
+  }
+}
+@media (max-width: 991px) {
+  .pembayaran-txt13.layout {
+    margin: 8px auto 7px;
+  }
+}
+@media (max-width: 767px) {
+  .pembayaran-txt13.layout {
+    margin: 7px auto 6px;
+  }
+}
+@media (max-width: 575px) {
+  .pembayaran-txt13.layout {
+    margin: 6px auto;
+  }
+}
+@media (max-width: 479px) {
+  .pembayaran-txt13.layout {
+    margin: 6px auto 5px;
+  }
+}
+@media (max-width: 383px) {
+  .pembayaran-txt13.layout {
+    margin: 5px auto;
+  }
+}

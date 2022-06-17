@@ -1,0 +1,1150 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.login-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #b8e3ff;
+}
+.login-block.layout {
+  position: relative;
+}
+.login-block1 {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+.login-block1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.login-block1-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 10px;
+}
+@media (max-width: 1399px) {
+  .login-block1-item {
+    flex: 0 0 10px;
+  }
+}
+.login-image {
+  background: var(--src) center center/contain no-repeat;
+}
+.login-image.layout {
+  position: relative;
+  height: 58px;
+  width: 42px;
+  min-width: 42px;
+  margin: 13px 0px 12px 42px;
+}
+@media (max-width: 1199px) {
+  .login-image.layout {
+    margin: 11px 0px 11px 36px;
+  }
+}
+@media (max-width: 991px) {
+  .login-image.layout {
+    margin: 10px 0px 9px 30px;
+  }
+}
+@media (max-width: 767px) {
+  .login-image.layout {
+    margin: 8px 0px 8px 24px;
+  }
+}
+@media (max-width: 575px) {
+  .login-image.layout {
+    margin: 7px 0px 7px 22px;
+  }
+}
+@media (max-width: 479px) {
+  .login-image.layout {
+    margin: 7px 0px 6px 19px;
+  }
+}
+@media (max-width: 383px) {
+  .login-image.layout {
+    margin: 6px 0px 6px 17px;
+  }
+}
+.login-block1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 10px;
+}
+@media (max-width: 1399px) {
+  .login-block1-item1 {
+    flex: 1 0 10px;
+  }
+}
+@media (max-width: 1199px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.login-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 1256px 9px 0px;
+}
+@media (max-width: 1199px) {
+  .login-medium-title-box.layout {
+    margin: 14px 954px 8px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title-box.layout {
+    margin: 12px 627px 7px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title-box.layout {
+    margin: 10px 347px 6px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title-box.layout {
+    margin: 9px 207px 5px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title-box.layout {
+    margin: 8px 66px 5px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title-box.layout {
+    margin: 8px 5px 5px 0px;
+  }
+}
+.login-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Port Lligat Sans", Helvetica, Arial, serif;
+  color: #383838;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .login-medium-title {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title {
+    font-size: 16px;
+  }
+}
+.login-block2 {
+  display: flex;
+}
+@media (max-width: 1199px) {
+  .login-block2 {
+    flex-wrap: wrap;
+    row-gap: 16px;
+  }
+}
+.login-block2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 80.63%;
+  margin: 74px auto 400px;
+}
+@media (max-width: 1199px) {
+  .login-block2.layout {
+    margin: 63px auto 309px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block2.layout {
+    margin: 51px auto 210px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block2.layout {
+    margin: 41px auto 126px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block2.layout {
+    margin: 36px auto 83px;
+  }
+}
+@media (max-width: 479px) {
+  .login-block2.layout {
+    margin: 31px auto 41px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block2.layout {
+    margin: 28px auto 12px;
+  }
+}
+.login-block2-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 571px;
+}
+@media (max-width: 1199px) {
+  .login-block2-item {
+    flex: 0 0 100%;
+  }
+}
+.login-block3 {
+  display: flex;
+  flex-direction: column;
+}
+.login-block3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.login-block4 {
+  display: flex;
+  flex-direction: column;
+}
+.login-block4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 38px 0px 37px;
+}
+@media (max-width: 1199px) {
+  .login-block4.layout {
+    margin: 0px 33px 0px 32px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block4.layout {
+    margin: 0px 27px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block4.layout {
+    margin: 0px 23px 0px 22px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block4.layout {
+    margin: 0px 20px;
+  }
+}
+@media (max-width: 479px) {
+  .login-block4.layout {
+    margin: 0px 18px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block4.layout {
+    margin: 0px 16px;
+  }
+}
+@media (max-width: 1199px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .login-big-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.login-big-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 76.81%;
+  margin: 0px 23.19% 0px 0%;
+}
+.login-big-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 32px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444343;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .login-big-title {
+    font-size: 29px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .login-big-title {
+    font-size: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .login-big-title {
+    font-size: 23px;
+  }
+}
+@media (max-width: 575px) {
+  .login-big-title {
+    font-size: 21px;
+  }
+}
+@media (max-width: 479px) {
+  .login-big-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 383px) {
+  .login-big-title {
+    font-size: 19px;
+  }
+}
+.login-block5 {
+  display: flex;
+}
+.login-block5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 19px 0px 7px;
+}
+@media (max-width: 1199px) {
+  .login-block5.layout {
+    margin: 17px 0px 6px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block5.layout {
+    margin: 14px 0px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block5.layout {
+    margin: 12px 0px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block5.layout {
+    margin: 11px 0px 5px;
+  }
+}
+@media (max-width: 479px) {
+  .login-block5.layout {
+    margin: 10px 0px 5px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block5.layout {
+    margin: 9px 0px 5px;
+  }
+}
+.login-medium-title1 {
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444343;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-medium-title1 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title1 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title1 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title1 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title1 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title1 {
+    font-size: 16px;
+  }
+}
+.login-medium-title1.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.login-block5-spacer {
+  flex: 0 1 2px;
+}
+
+.login-medium-title2:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-medium-title2 {
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #154a6c;
+  letter-spacing: 0px;
+  cursor: pointer;
+}
+@media (max-width: 1199px) {
+  .login-medium-title2 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title2 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title2 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title2 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title2 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title2 {
+    font-size: 16px;
+  }
+}
+.login-medium-title2.layout {
+  position: relative;
+  flex: 0 0 auto;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.login-block6 {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
+  border-radius: 13px 13px 13px 13px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.login-block6:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-block6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 47.29%;
+  margin: 13px auto 0px;
+}
+@media (max-width: 1199px) {
+  .login-block6.layout {
+    margin: 11px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block6.layout {
+    margin: 10px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block6.layout {
+    margin: 8px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block6.layout {
+    margin: 7px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block6.layout {
+    margin: 6px auto 0px;
+  }
+}
+.login-highlights {
+  display: flex;
+  justify-content: center;
+  font: 16px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444343;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-highlights {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .login-highlights {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .login-highlights {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .login-highlights {
+    font-size: 12px;
+  }
+}
+.login-highlights.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 1px 0px 5px;
+}
+@media (max-width: 1199px) {
+  .login-highlights.layout {
+    margin: 5px 0px;
+  }
+}
+.login-block7 {
+  display: flex;
+  flex-direction: column;
+}
+.login-block7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 13px 34px 0px 32px;
+}
+@media (max-width: 1199px) {
+  .login-block7.layout {
+    margin: 11px 30px 0px 28px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block7.layout {
+    margin: 10px 25px 0px 24px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block7.layout {
+    margin: 8px 21px 0px 20px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block7.layout {
+    margin: 7px 19px 0px 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-block7.layout {
+    margin: 7px 17px 0px 16px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block7.layout {
+    margin: 6px 15px 0px;
+  }
+}
+.login-highlights1 {
+  display: flex;
+  justify-content: center;
+  font: 16px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444444;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-highlights1 {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .login-highlights1 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .login-highlights1 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .login-highlights1 {
+    font-size: 12px;
+  }
+}
+.login-highlights1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 48px;
+  min-width: 48px;
+}
+.login-block8 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 27.5px 27.5px 27.5px 27.5px;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.login-block8:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-block8.layout {
+  position: relative;
+  width: 600px;
+  height: 55px;
+  padding-left: 30px;
+  margin: 10px 0px 10px 0px;
+  font-size: 20px;
+}
+@media (max-width: 1199px) {
+  .login-block8.layout {
+    margin: 8px 0px 0px 5px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block8.layout {
+    margin: 7px 0px 0px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block8.layout {
+    margin: 6px 0px 0px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block8.layout {
+    margin: 5px 0px 0px 5px;
+
+  }
+}
+.login-highlights2 {
+  display: flex;
+  justify-content: center;
+  font: 16px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #a8a8a8;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-highlights2 {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .login-highlights2 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .login-highlights2 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .login-highlights2 {
+    font-size: 12px;
+  }
+}
+.login-highlights2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px 19px;
+}
+@media (max-width: 1199px) {
+  .login-highlights2.layout {
+    margin: 14px 0px 17px;
+  }
+}
+@media (max-width: 991px) {
+  .login-highlights2.layout {
+    margin: 12px 0px 14px;
+  }
+}
+@media (max-width: 767px) {
+  .login-highlights2.layout {
+    margin: 10px 0px 12px;
+  }
+}
+@media (max-width: 575px) {
+  .login-highlights2.layout {
+    margin: 9px 0px 11px;
+  }
+}
+@media (max-width: 479px) {
+  .login-highlights2.layout {
+    margin: 8px 0px 10px;
+  }
+}
+@media (max-width: 383px) {
+  .login-highlights2.layout {
+    margin: 8px 0px 9px;
+  }
+}
+.login-block9 {
+  display: flex;
+  flex-direction: column;
+}
+.login-block9.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 13px 34px 0px 33px;
+}
+@media (max-width: 1199px) {
+  .login-block9.layout {
+    margin: 11px 30px 0px 29px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block9.layout {
+    margin: 10px 25px 0px 24px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block9.layout {
+    margin: 8px 21px 0px 20px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block9.layout {
+    margin: 7px 19px 0px 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-block9.layout {
+    margin: 7px 17px 0px 16px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block9.layout {
+    margin: 6px 15px 0px;
+  }
+}
+.login-highlights11 {
+  font: 16px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444444;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-highlights11 {
+    font-size: 15px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .login-highlights11 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .login-highlights11 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .login-highlights11 {
+    font-size: 12px;
+  }
+}
+.login-highlights11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.login-block10 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 27.5px 27.5px 27.5px 27.5px;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.login-block10:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-block10.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 9px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .login-block10.layout {
+    margin: 8px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block10.layout {
+    margin: 7px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block10.layout {
+    margin: 6px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block10.layout {
+    margin: 5px 0px 0px;
+  }
+}
+.login-block11 {
+  display: flex;
+  flex-direction: column;
+  background-color: #0583d2;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.login-block11:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-block11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 24.52%;
+  margin: 13px auto 0px;
+}
+@media (max-width: 1199px) {
+  .login-block11.layout {
+    margin: 11px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .login-block11.layout {
+    margin: 10px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .login-block11.layout {
+    margin: 8px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .login-block11.layout {
+    margin: 7px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .login-block11.layout {
+    margin: 6px auto 0px;
+  }
+}
+.login-subtitle {
+  display: flex;
+  justify-content: center;
+  font: 20px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2470588235);
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .login-subtitle {
+    font-size: 19px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .login-subtitle {
+    font-size: 18px;
+  }
+}
+@media (max-width: 767px) {
+  .login-subtitle {
+    font-size: 17px;
+  }
+}
+@media (max-width: 479px) {
+  .login-subtitle {
+    font-size: 16px;
+  }
+}
+.login-subtitle.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 5px 34.5px 11px 35.5px;
+}
+@media (max-width: 1199px) {
+  .login-subtitle.layout {
+    margin: 5px 30px 10px 31px;
+  }
+}
+@media (max-width: 991px) {
+  .login-subtitle.layout {
+    margin: 5px 25px 8px 26px;
+  }
+}
+@media (max-width: 767px) {
+  .login-subtitle.layout {
+    margin: 5px 21px 7px 22px;
+  }
+}
+@media (max-width: 575px) {
+  .login-subtitle.layout {
+    margin: 5px 19px 6px;
+  }
+}
+@media (max-width: 479px) {
+  .login-subtitle.layout {
+    margin: 5px 17px 6px;
+  }
+}
+@media (max-width: 383px) {
+  .login-subtitle.layout {
+    margin: 5px 15px 5px 16px;
+  }
+}
+.login-medium-title3 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #444444;
+  text-align: center;
+  text-decoration: underline;
+  letter-spacing: 0px;
+  cursor: pointer;
+}
+@media (max-width: 1199px) {
+  .login-medium-title3 {
+    font-size: 22px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title3 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title3 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title3 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .login-medium-title3 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title3 {
+    font-size: 16px;
+  }
+}
+.login-medium-title3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 13px 0px 7px;
+}
+@media (max-width: 1199px) {
+  .login-medium-title3.layout {
+    margin: 11px 0px 6px;
+  }
+}
+@media (max-width: 991px) {
+  .login-medium-title3.layout {
+    margin: 10px 0px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .login-medium-title3.layout {
+    margin: 8px 0px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .login-medium-title3.layout {
+    margin: 7px 0px 5px;
+  }
+}
+@media (max-width: 383px) {
+  .login-medium-title3.layout {
+    margin: 6px 0px 5px;
+  }
+}
+.login-block2-spacer {
+  flex: 0 1 168px;
+}
+@media (max-width: 1199px) {
+  .login-block2-spacer {
+    display: none;
+  }
+}
+.login-block2-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 422px;
+}
+@media (max-width: 1199px) {
+  .login-block2-item1 {
+    flex: 0 0 100%;
+  }
+}
+.login-image1 {
+  background: var(--src) center center/contain no-repeat;
+}
+.login-image1.layout {
+  position: relative;
+  height: 360px;
+  margin: 0px 0px 107px;
+}
+@media (max-width: 1199px) {
+  .login-image1.layout {
+    margin: 0px 0px 88px;
+  }
+}
+@media (max-width: 991px) {
+  .login-image1.layout {
+    margin: 0px 0px 67px;
+  }
+}
+@media (max-width: 767px) {
+  .login-image1.layout {
+    margin: 0px 0px 50px;
+  }
+}
+@media (max-width: 575px) {
+  .login-image1.layout {
+    margin: 0px 0px 41px;
+  }
+}
+@media (max-width: 479px) {
+  .login-image1.layout {
+    margin: 0px 0px 32px;
+  }
+}
+@media (max-width: 383px) {
+  .login-image1.layout {
+    margin: 0px 0px 26px;
+  }
+}

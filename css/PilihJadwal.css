@@ -1,0 +1,2160 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.pilih-jadwal-content-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #52bbff;
+}
+.pilih-jadwal-content-box.layout {
+  position: relative;
+}.header-block {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+.header-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-logo{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 176px;
+  cursor: pointer;
+}
+.header-block-logo-item {
+  display: flex;
+}
+.header-block-logo-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px 16px 34px;
+}
+@media (max-width: 1199px) {
+  .header-block-logo-item.layout {
+    margin: 14px 0px 14px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-logo-item.layout {
+    margin: 12px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-logo-item.layout {
+    margin: 10px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-logo-item.layout {
+    margin: 9px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-logo-item.layout {
+    margin: 8px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-logo-item.layout {
+    margin: 8px 15px;
+  }
+}
+.header-block-logo-item-gambar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 42px;
+}
+.pilih-jadwal-img {
+  background: var(--src) center center/contain no-repeat;
+}
+.pilih-jadwal-img.layout {
+  position: relative;
+  height: 58px;
+  width: 42px;
+  min-width: 42px;
+}
+.header-block-logo-item-gambar1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 100px;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.header-block-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Port Lligat Sans", Helvetica, Arial, serif;
+  color: #383838;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title {
+    font-size: 16px;
+  }
+}
+.header-block1-spacer {
+  flex: 1 1 446px;
+}
+.konsultasi-block1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 818px;
+}
+.header-block-item {
+  display: flex;
+}
+.header-block-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 818px;
+  min-width: 818px;
+  margin: 20px 0px;
+}
+@media (max-width: 1199px) {
+  .header-block-item.layout {
+    margin: 18px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-item.layout {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-item.layout {
+    margin: 13px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-item.layout {
+    margin: 11px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-item.layout {
+    margin: 10px 0px;
+  }
+}
+.header-block-item-link {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 0 auto;
+}
+.konsultasi-medium-title1 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-layanan {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-konsultasi {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-testimoni {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-kerjasama {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-tentang {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-medium-title1:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-layanan:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-konsultasi:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-testimoni:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-kerjasama:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-tentang:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-medium-title1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-layanan.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-tentang.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-testimoni.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-konsultasi.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-spacer {
+  flex: 0 1 24px;
+}
+.header-block-item-spacer1 {
+  flex: 0 1 27px;
+}
+.header-block-item-link1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 50px;
+}
+.header-profil-icon {
+  background: var(--src) center center/contain no-repeat;
+  cursor: pointer;
+}
+.header-profil-icon.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+}
+.pilih-jadwal-flex2 {
+  display: flex;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex2 {
+    flex-wrap: wrap;
+    row-gap: 16px;
+  }
+}
+.pilih-jadwal-flex2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 1199px;
+  min-width: 1199px;
+  margin: 70px auto 172px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 60px auto 137px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 49px auto 99px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 40px auto 67px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 36px auto 50px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 31px auto 34px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-flex2.layout {
+    margin: 28px auto 23px;
+  }
+}
+.pilih-jadwal-flex2-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 552px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex2-item {
+    flex: 0 0 100%;
+  }
+}
+.pilih-jadwal-group1 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-group1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-jadwal-flex3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.pilih-jadwal-flex3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 552px;
+  min-width: 552px;
+  margin: 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex3.layout {
+    margin: 0px auto;
+  }
+}
+.pilih-jadwal-group2 {
+  display: flex;
+  flex-direction: column;
+  background-color: #4fd6f7;
+  border: 4px solid #2ecbe9;
+  border-radius: 10px 10px 10px 10px;
+}
+.pilih-jadwal-group2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 552px;
+  min-width: 552px;
+}
+.pilih-jadwal-flex4 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 19px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 14px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 12px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 11px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 10px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-flex4.layout {
+    margin: 0px 9px;
+  }
+}
+.pilih-jadwal-group3 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-group3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 47.08%;
+  margin: 0px auto;
+}
+.pilih-jadwal-flex5 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 3px 18px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex5.layout {
+    margin: 5px 16px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex5.layout {
+    margin: 5px 13px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex5.layout {
+    margin: 5px 11px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex5.layout {
+    margin: 5px 10px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex5.layout {
+    margin: 5px 9px;
+  }
+}
+.pilih-jadwal-img.layout1 {
+  position: relative;
+  height: 173px;
+  margin: 0px 20px 0px 19px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 18px 0px 17px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 15px 0px 14px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 13px 0px 12px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 11px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 10px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-img.layout1 {
+    margin: 0px 10px 0px 9px;
+  }
+}
+.pilih-jadwal-txt6 {
+  display: flex;
+  justify-content: center;
+  font: 15px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt6 {
+    font-size: 14px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt6 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt6 {
+    font-size: 12px;
+  }
+}
+.pilih-jadwal-txt6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 10px 1px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt6.layout {
+    margin: 9px 5px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt6.layout {
+    margin: 7px 5px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt6.layout {
+    margin: 6px 5px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt6.layout {
+    margin: 5px 5px 0px 0px;
+  }
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt7-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.pilih-jadwal-txt7-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 19px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 17px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 14px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 12px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 10px 0px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt7-box.layout {
+    margin: 9px 0px 0px;
+  }
+}
+.pilih-jadwal-txt7 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 15px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt7 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt7 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt7 {
+    font-size: 12px;
+  }
+}
+.pilih-jadwal-txt8-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 19px 3px 51px 2px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 17px 5px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 14px 5px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 12px 5px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 11px 5px 25px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 10px 5px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt8-box.layout {
+    margin: 9px 5px 19px;
+  }
+}
+.pilih-jadwal-txt8 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 12px/1.2 "Arimo", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+.pilih-jadwal-txt8-span0 {
+  font: 1em/1.2 "Arimo", Helvetica, Arial, serif;
+  color: #000000ff;
+  letter-spacing: 0px;
+}
+.pilih-jadwal-txt8-span1 {
+  font: 1.25em/1.2 "Krona One", Helvetica, Arial, serif;
+  color: #000000ff;
+  letter-spacing: 0px;
+}
+.pilih-jadwal-group4 {
+  display: flex;
+  flex-direction: column;
+  background-color: #4fd6f7;
+  border: 4px solid #2ecbe9;
+  border-radius: 10px 10px 10px 10px;
+}
+.pilih-jadwal-group4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 552px;
+  min-width: 552px;
+  margin: 23px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group4.layout {
+    margin: 20px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group4.layout {
+    margin: 17px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group4.layout {
+    margin: 14px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group4.layout {
+    margin: 13px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group4.layout {
+    margin: 12px 0px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-group4.layout {
+    margin: 11px 0px 0px;
+  }
+}
+.pilih-jadwal-flex6 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 5px 24px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 21px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 18px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 15px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 14px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 12px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-flex6.layout {
+    margin: 5px 11px;
+  }
+}
+.pilih-jadwal-txt9-box {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt9-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt9-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt9-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+.pilih-jadwal-txt9-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 1px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt9-box.layout {
+    margin: 5px 0px 0px;
+  }
+}
+.pilih-jadwal-txt9 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 15px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt9 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt9 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt9 {
+    font-size: 12px;
+  }
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt10-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.pilih-jadwal-txt10-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-jadwal-txt10 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 15px/1.2 "Arimo", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt10 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt10 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt10 {
+    font-size: 12px;
+  }
+}
+.pilih-jadwal-group5 {
+  display: flex;
+  flex-direction: column;
+  background-color: #4fd6f7;
+  border: 4px solid #2ecbe9;
+  border-radius: 10px 10px 10px 10px;
+}
+.pilih-jadwal-group5.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 552px;
+  min-width: 552px;
+  margin: 23px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group5.layout {
+    margin: 20px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group5.layout {
+    margin: 17px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group5.layout {
+    margin: 14px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group5.layout {
+    margin: 13px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group5.layout {
+    margin: 12px 0px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-group5.layout {
+    margin: 11px 0px 0px;
+  }
+}
+.pilih-jadwal-flex7 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 8px 28px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 7px 25px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 6px 21px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 5px 18px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 5px 16px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 5px 14px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-flex7.layout {
+    margin: 5px 13px;
+  }
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt11-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt11-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt11-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.pilih-jadwal-txt11-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 1px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt11-box.layout {
+    margin: 0px 5px 0px 0px;
+  }
+}
+.pilih-jadwal-txt11 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 15px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt11 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt11 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt11 {
+    font-size: 12px;
+  }
+}
+.pilih-jadwal-txt12 {
+  display: flex;
+  align-items: center;
+  font: 15px/1.2 "Arimo", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt12 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt12 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt12 {
+    font-size: 12px;
+  }
+}
+.pilih-jadwal-txt12.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 1px 1px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt12.layout {
+    margin: 5px 5px 0px;
+  }
+}
+.pilih-jadwal-flex2-spacer {
+  flex: 0 1 137px;
+}
+@media (max-width: 1399px) {
+  .pilih-jadwal-flex2-spacer {
+    flex: 1 0 137px;
+  }
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex2-spacer {
+    display: none;
+  }
+}
+.pilih-jadwal-flex2-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 510px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex2-item1 {
+    flex: 0 0 100%;
+  }
+}
+.pilih-jadwal-flex8 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex8.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 85px 0px 84px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 71px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 57px 0px 56px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 44px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 38px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 32px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-flex8.layout {
+    margin: 27px 0px;
+  }
+}
+.pilih-jadwal-flex9 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-jadwal-flex9.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 510px;
+  min-width: 510px;
+  margin: 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-flex9.layout {
+    margin: 0px auto;
+  }
+}
+.pilih-jadwal-txt13 {
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt13 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt13 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt13 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt13 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt13 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt13 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt13.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 42.35%;
+  margin: 0px auto;
+}
+.pilih-jadwal-group6 {
+  display: flex;
+  flex-direction: column;
+  background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group6:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group6-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: #FFE45C;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group6.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 506px;
+  min-width: 506px;
+  margin: 12px 2px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group6.layout {
+    margin: 11px 5px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group6.layout {
+    margin: 9px 5px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group6.layout {
+    margin: 8px 5px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group6.layout {
+    margin: 7px 5px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group6.layout {
+    margin: 6px 5px 0px;
+  }
+}
+.pilih-jadwal-txt14 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt14 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt14 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt14 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt14 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt14 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt14 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt14.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 152px;
+  min-width: 152px;
+  margin: 6px auto 7px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt14.layout {
+    margin: 5px auto 6px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt14.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group7 {
+  display: flex;
+  flex-direction: column;
+  background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 20.5px 20.5px 20.5px 20.5px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group7:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 503px;
+  min-width: 503px;
+  margin: 12px 4px 0px 3px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group7.layout {
+    margin: 11px 5px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group7.layout {
+    margin: 9px 5px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group7.layout {
+    margin: 8px 5px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group7.layout {
+    margin: 7px 5px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group7.layout {
+    margin: 6px 5px 0px;
+  }
+}
+.pilih-jadwal-txt15 {
+  display: flex;
+  justify-content: flex-end;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt15 {
+    font-size: 22px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt15 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt15 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt15 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt15 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt15 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt15.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 157px;
+  min-width: 157px;
+  margin: 6px auto;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt15.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group8 {
+  display: flex;
+  flex-direction: column;
+  background-color: #8c8d90;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group8:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group8.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 506px;
+  min-width: 506px;
+  margin: 12px 2px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group8.layout {
+    margin: 11px 5px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group8.layout {
+    margin: 9px 5px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group8.layout {
+    margin: 8px 5px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group8.layout {
+    margin: 7px 5px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group8.layout {
+    margin: 6px 5px 0px;
+  }
+}
+.pilih-jadwal-txt16 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt16 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt16 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt16 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt16 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt16 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt16 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt16.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 152px;
+  min-width: 152px;
+  margin: 6px auto 7px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt16.layout {
+    margin: 5px auto 6px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt16.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group9 {
+  display: flex;
+  flex-direction: column;
+  background-color: #8c8d90;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group9:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group9.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 510px;
+  min-width: 510px;
+  margin: 12px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group9.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group9.layout {
+    margin: 9px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group9.layout {
+    margin: 8px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group9.layout {
+    margin: 7px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group9.layout {
+    margin: 6px 0px 0px;
+  }
+}
+.pilih-jadwal-txt17 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt17 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt17 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt17 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt17 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt17 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt17 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt17.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 148px;
+  min-width: 148px;
+  margin: 6px auto 7px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt17.layout {
+    margin: 5px auto 6px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt17.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group10 {
+  display: flex;
+  flex-direction: column;
+  background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group10:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group10.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 510px;
+  min-width: 510px;
+  margin: 12px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group10.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group10.layout {
+    margin: 9px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group10.layout {
+    margin: 8px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group10.layout {
+    margin: 7px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group10.layout {
+    margin: 6px 0px 0px;
+  }
+}
+.pilih-jadwal-txt18 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt18 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt18 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt18 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt18 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt18 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt18 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt18.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 150px;
+  min-width: 150px;
+  margin: 6px auto 7px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt18.layout {
+    margin: 5px auto 6px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt18.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group11 {
+  display: flex;
+  flex-direction: column;
+  background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 20.5px 20.5px 20.5px 20.5px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group11:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 510px;
+  min-width: 510px;
+  margin: 12px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group11.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group11.layout {
+    margin: 9px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group11.layout {
+    margin: 8px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group11.layout {
+    margin: 7px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group11.layout {
+    margin: 6px 0px 0px;
+  }
+}
+.pilih-jadwal-txt19 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt19 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt19 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt19 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt19 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt19 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt19 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt19.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 148px;
+  min-width: 148px;
+  margin: 6px auto;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt19.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group12 {
+  display: flex;
+  flex-direction: column;
+  background-color: #d1dbff;
+  border: 1px solid black;
+  border-radius: 21px 21px 21px 21px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group12:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group12.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 510px;
+  min-width: 510px;
+  margin: 12px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group12.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group12.layout {
+    margin: 9px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group12.layout {
+    margin: 8px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group12.layout {
+    margin: 7px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group12.layout {
+    margin: 6px 0px 0px;
+  }
+}
+.pilih-jadwal-txt20 {
+  display: flex;
+  font: 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt20 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt20 {
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt20 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt20 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt20 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt20 {
+    font-size: 16px;
+  }
+}
+.pilih-jadwal-txt20.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 148px;
+  min-width: 148px;
+  margin: 6px auto 7px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt20.layout {
+    margin: 5px auto 6px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt20.layout {
+    margin: 5px auto;
+  }
+}
+.pilih-jadwal-group13 {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffe45c;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-jadwal-group13:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-jadwal-group13.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 313px;
+  min-width: 313px;
+  margin: 50px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-group13.layout {
+    margin: 43px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-group13.layout {
+    margin: 35px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-group13.layout {
+    margin: 28px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-group13.layout {
+    margin: 24px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-group13.layout {
+    margin: 21px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-group13.layout {
+    margin: 19px auto 0px;
+  }
+}
+.pilih-jadwal-txt21 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 32px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #0a0a0a;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt21 {
+    font-size: 29px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt21 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt21 {
+    font-size: 23px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt21 {
+    font-size: 21px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt21 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt21 {
+    font-size: 19px;
+  }
+}
+.pilih-jadwal-txt21.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 12px 39px;
+}
+@media (max-width: 1199px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 11px 34px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 9px 28px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 8px 23px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 7px 21px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 6px 18px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-jadwal-txt21.layout {
+    margin: 6px 17px;
+  }
+}

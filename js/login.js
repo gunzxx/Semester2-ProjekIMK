@@ -1,0 +1,14 @@
+$(document).ready(function(){
+	$(".login-subtitle.layout").click(function(){
+		//$(".header-block-item-layanan").hide();
+		window.location.href="MainPage.html";
+ });
+	$(".login-medium-title2.layout").click(function(){
+		//$(".header-block-item-layanan").hide();
+		window.location.href="Register.html";
+ });
+	$(".login-medium-title3.layout").click(function(){
+		//$(".header-block-item-layanan").hide();
+		window.location.href="LupaPassword.html";
+ });
+});

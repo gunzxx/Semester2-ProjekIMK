@@ -1,0 +1,2010 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.pilih-psikolog-content-box {
+  display: flex;
+  flex-direction: column;
+  background-color: #b8e3ff;
+}
+.pilih-psikolog-content-box.layout {
+  position: relative;
+  min-height: 1024px;
+  flex-shrink: 0;
+}
+.header-block {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+.header-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-logo{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 176px;
+  cursor: pointer;
+}
+.header-block-logo-item {
+  display: flex;
+}
+.header-block-logo-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px 16px 34px;
+}
+@media (max-width: 1199px) {
+  .header-block-logo-item.layout {
+    margin: 14px 0px 14px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-logo-item.layout {
+    margin: 12px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-logo-item.layout {
+    margin: 10px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-logo-item.layout {
+    margin: 9px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-logo-item.layout {
+    margin: 8px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-logo-item.layout {
+    margin: 8px 15px;
+  }
+}
+.header-block-logo-item-gambar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 42px;
+}
+.pilih-psikolog-img {
+  background: var(--src) center center/contain no-repeat;
+}
+.pilih-psikolog-img.layout {
+  position: relative;
+  height: 58px;
+  width: 42px;
+  min-width: 42px;
+}
+.header-block-logo-item-gambar1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 100px;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.header-block-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Port Lligat Sans", Helvetica, Arial, serif;
+  color: #383838;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title {
+    font-size: 16px;
+  }
+}
+.header-block1-spacer {
+  flex: 1 1 446px;
+}
+.konsultasi-block1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 818px;
+}
+.header-block-item {
+  display: flex;
+}
+.header-block-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 818px;
+  min-width: 818px;
+  margin: 20px 0px;
+}
+@media (max-width: 1199px) {
+  .header-block-item.layout {
+    margin: 18px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-item.layout {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-item.layout {
+    margin: 13px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-item.layout {
+    margin: 11px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-item.layout {
+    margin: 10px 0px;
+  }
+}
+.header-block-item-link {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 0 auto;
+}
+.konsultasi-medium-title1 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-layanan {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-konsultasi {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-testimoni {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-kerjasama {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-tentang {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-medium-title1:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-layanan:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-konsultasi:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-testimoni:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-kerjasama:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-tentang:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-medium-title1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-layanan.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-tentang.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-testimoni.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-konsultasi.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-spacer {
+  flex: 0 1 24px;
+}
+.header-block-item-spacer1 {
+  flex: 0 1 27px;
+}
+.header-block-item-link1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 50px;
+}
+.header-profil-icon {
+  background: var(--src) center center/contain no-repeat;
+  cursor: pointer;
+}
+.header-profil-icon.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+}
+.pilih-psikolog-txt6 {
+  font: 24px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt6 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-txt6 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-txt6 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-txt6 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-txt6 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-txt6 {
+    font-size: 16px;
+  }
+}
+.pilih-psikolog-txt6.layout {
+  position: relative;
+  height: 30px;
+  width: 240px;
+  min-width: 240px;
+  margin: 59px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 50px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 41px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 33px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 29px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-txt6.layout {
+    margin: 23px auto 0px;
+  }
+}
+.pilih-psikolog-flex3 {
+  display: flex;
+}
+.pilih-psikolog-flex3.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 930px;
+  min-width: 930px;
+  margin: 59px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex3.layout {
+    margin: 50px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex3.layout {
+    width: 1240px;
+    min-width: 1240px;
+    margin: 41px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex3.layout {
+    width: 1653px;
+    min-width: 1653px;
+    margin: 33px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex3.layout {
+    width: 2204px;
+    min-width: 2204px;
+    margin: 29px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex3.layout {
+    width: 2939px;
+    min-width: 2939px;
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-flex3.layout {
+    width: 3919px;
+    min-width: 3919px;
+    margin: 23px auto 0px;
+  }
+}
+.pilih-psikolog-flex3-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 150px;
+}
+.pilih-psikolog-group1 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group1-clicked{
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group1:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group1.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-flex4 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-psikolog-flex4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 20px 1px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex4.layout {
+    margin: 18px 5px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex4.layout {
+    margin: 15px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex4.layout {
+    margin: 13px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex4.layout {
+    margin: 11px 5px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex4.layout {
+    margin: 10px 5px;
+  }
+}
+.pilih-psikolog-img.layout1 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout1 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-flex3-spacer {
+  flex: 0 1 45px;
+}
+.pilih-psikolog-group2 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group2:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group2.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout2 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout2 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt8.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-group3 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group3:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group3.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout3 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout3 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt9.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-group4 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group4:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group4.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-flex7 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-psikolog-flex7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex7.layout {
+    margin: 14px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex7.layout {
+    margin: 12px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex7.layout {
+    margin: 10px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex7.layout {
+    margin: 9px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex7.layout {
+    margin: 8px 0px;
+  }
+}
+.pilih-psikolog-img.layout4 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 1px 35px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 30px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 26px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 21px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 19px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 17px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout4 {
+    margin: 5px 16px 0px;
+  }
+}
+.pilih-psikolog-txt10 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt10.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 0px 1px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt10.layout {
+    margin: 0px 0px 0px 5px;
+  }
+}
+.pilih-psikolog-group5 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group5:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group5.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout5 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 20px 35px 50px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 18px 30px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 15px 26px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 13px 21px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 11px 19px 24px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 10px 17px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout5 {
+    margin: 10px 16px 19px;
+  }
+}
+.pilih-psikolog-txt11 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt11.layout {
+  position: absolute;
+  height: 30px;
+  bottom: 20px;
+  width: 174px;
+  right: -12px;
+}
+.pilih-psikolog-flex8 {
+  display: flex;
+}
+.pilih-psikolog-flex8.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 930px;
+  min-width: 930px;
+  margin: 59px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex8.layout {
+    margin: 50px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex8.layout {
+    width: 1240px;
+    min-width: 1240px;
+    margin: 41px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex8.layout {
+    width: 1653px;
+    min-width: 1653px;
+    margin: 33px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex8.layout {
+    width: 2204px;
+    min-width: 2204px;
+    margin: 29px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex8.layout {
+    width: 2939px;
+    min-width: 2939px;
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-flex8.layout {
+    width: 3919px;
+    min-width: 3919px;
+    margin: 23px auto 0px;
+  }
+}
+.pilih-psikolog-flex8-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 150px;
+}
+.pilih-psikolog-group6 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group6:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group6.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout6 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout6 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt12 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt12.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-flex8-spacer {
+  flex: 0 1 45px;
+}
+.pilih-psikolog-group7 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group7:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group7.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-flex10 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-psikolog-flex10.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 1px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex10.layout {
+    margin: 14px 5px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex10.layout {
+    margin: 12px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex10.layout {
+    margin: 10px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex10.layout {
+    margin: 9px 5px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex10.layout {
+    margin: 8px 5px;
+  }
+}
+.pilih-psikolog-img.layout7 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 1px 34px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 30px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 25px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 21px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 19px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 17px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout7 {
+    margin: 5px 15px 0px;
+  }
+}
+.pilih-psikolog-txt13 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt13.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt13.layout {
+    margin: 6px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-txt13.layout {
+    margin: 5px 0px 0px;
+  }
+}
+.pilih-psikolog-group8 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group8:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group8.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout8 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 20px 35px 50px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 18px 30px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 15px 26px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 13px 21px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 11px 19px 24px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 10px 17px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout8 {
+    margin: 10px 16px 19px;
+  }
+}
+.pilih-psikolog-txt14 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt14.layout {
+  position: absolute;
+  height: 30px;
+  bottom: 20px;
+  width: 178px;
+  right: -14px;
+}
+.pilih-psikolog-group9 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group9:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group9.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout9 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 20px 35px 50px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 18px 30px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 15px 26px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 13px 21px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 11px 19px 24px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 10px 17px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout9 {
+    margin: 10px 16px 19px;
+  }
+}
+.pilih-psikolog-txt15 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt15.layout {
+  position: absolute;
+  height: 30px;
+  bottom: 20px;
+  width: 183px;
+  right: -17px;
+}
+.pilih-psikolog-group10 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group10:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group10.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout10 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 20px 35px 50px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 18px 30px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 15px 26px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 13px 21px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 11px 19px 24px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 10px 17px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout10 {
+    margin: 10px 16px 19px;
+  }
+}
+.pilih-psikolog-txt16 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt16.layout {
+  position: absolute;
+  height: 30px;
+  bottom: 20px;
+  width: 175px;
+  right: -13px;
+}
+.pilih-psikolog-flex11 {
+  display: flex;
+}
+.pilih-psikolog-flex11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 934px;
+  min-width: 934px;
+  margin: 59px auto 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex11.layout {
+    margin: 50px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex11.layout {
+    width: 1245px;
+    min-width: 1245px;
+    margin: 41px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex11.layout {
+    width: 1660px;
+    min-width: 1660px;
+    margin: 33px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex11.layout {
+    width: 2213px;
+    min-width: 2213px;
+    margin: 29px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex11.layout {
+    width: 2951px;
+    min-width: 2951px;
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-flex11.layout {
+    width: 3935px;
+    min-width: 3935px;
+    margin: 23px auto 0px;
+  }
+}
+.pilih-psikolog-flex11-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 150px;
+}
+.pilih-psikolog-group11 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group11:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group11.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout11 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout11 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt17 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt17.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-flex11-spacer {
+  flex: 0 1 46px;
+}
+.pilih-psikolog-group12 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group12:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group12.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout12 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 34px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout12 {
+    margin: 0px 15px;
+  }
+}
+.pilih-psikolog-txt18 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt18.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-group13 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group13:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group13.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-img.layout13 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 20px 35px 50px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 18px 30px 43px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 15px 26px 35px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 13px 21px 28px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 11px 19px 24px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 10px 17px 21px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout13 {
+    margin: 10px 16px 19px;
+  }
+}
+.pilih-psikolog-txt19 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt19.layout {
+  position: absolute;
+  height: 30px;
+  bottom: 20px;
+  width: 174px;
+  right: -12px;
+}
+.pilih-psikolog-group14 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group14:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group14.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-flex14 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-psikolog-flex14.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 20px 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex14.layout {
+    margin: 18px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex14.layout {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex14.layout {
+    margin: 13px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex14.layout {
+    margin: 11px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex14.layout {
+    margin: 10px 0px;
+  }
+}
+.pilih-psikolog-img.layout14 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 35px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 26px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout14 {
+    margin: 0px 16px;
+  }
+}
+.pilih-psikolog-txt20 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt20.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-group15 {
+  display: flex;
+  flex-direction: column;
+  background-color: #2ecbe9;
+  border-radius: 20px 20px 20px 20px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group15:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group15.layout {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  min-width: 150px;
+}
+.pilih-psikolog-flex15 {
+  display: flex;
+  flex-direction: column;
+}
+.pilih-psikolog-flex15.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 20px 12px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-flex15.layout {
+    margin: 18px 11px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-flex15.layout {
+    margin: 15px 9px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-flex15.layout {
+    margin: 13px 8px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-flex15.layout {
+    margin: 11px 7px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-flex15.layout {
+    margin: 10px 6px;
+  }
+}
+.pilih-psikolog-img.layout15 {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  margin: 0px 23px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 20px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 17px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 14px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 13px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 12px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-img.layout15 {
+    margin: 0px 11px;
+  }
+}
+.pilih-psikolog-txt21 {
+  display: flex;
+  justify-content: center;
+  font: 12px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.pilih-psikolog-txt21.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.pilih-psikolog-group16 {
+  display: flex;
+  flex-direction: column;
+  background-color: #fc8955;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.pilih-psikolog-group16:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.pilih-psikolog-group16.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 20.76%;
+  margin: 59px auto 98px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-group16.layout {
+    margin: 50px auto 81px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-group16.layout {
+    margin: 41px auto 63px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-group16.layout {
+    margin: 33px auto 48px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-group16.layout {
+    margin: 29px auto 40px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-group16.layout {
+    margin: 26px auto 32px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-group16.layout {
+    margin: 23px auto 27px;
+  }
+}
+.pilih-psikolog-txt22 {
+  display: flex;
+  justify-content: center;
+  font: 32px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt22 {
+    font-size: 29px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-txt22 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-txt22 {
+    font-size: 23px;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-txt22 {
+    font-size: 21px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-txt22 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 383px) {
+  .pilih-psikolog-txt22 {
+    font-size: 19px;
+  }
+}
+.pilih-psikolog-txt22.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 32.11%;
+  margin: 10px auto 9px;
+}
+@media (max-width: 1199px) {
+  .pilih-psikolog-txt22.layout {
+    margin: 9px auto 8px;
+  }
+}
+@media (max-width: 991px) {
+  .pilih-psikolog-txt22.layout {
+    margin: 7px auto;
+  }
+}
+@media (max-width: 767px) {
+  .pilih-psikolog-txt22.layout {
+    margin: 6px auto;
+  }
+}
+@media (max-width: 575px) {
+  .pilih-psikolog-txt22.layout {
+    margin: 6px auto 5px;
+  }
+}
+@media (max-width: 479px) {
+  .pilih-psikolog-txt22.layout {
+    margin: 5px auto;
+  }
+}

@@ -1,0 +1,1624 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.konsultasi-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #b8e3ff;
+}
+.konsultasi-block.layout {
+  position: relative;
+  min-height: 1391px;
+  flex-shrink: 0;
+}
+
+.login-block8 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 27.5px 27.5px 27.5px 27.5px;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.login-block8:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.login-block8.layout {
+  position: relative;
+  width: 450px;
+  height: 55px;
+  padding-left: 30px;
+  margin: 10px 0px 10px 0px;
+  font-size: 20px;
+}
+.header-block {
+  display: flex;
+  background-color: white;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+.header-block.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-logo{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 176px;
+  cursor: pointer;
+}
+.header-block-logo-item {
+  display: flex;
+}
+.header-block-logo-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 16px 0px 16px 34px;
+}
+@media (max-width: 1199px) {
+  .header-block-logo-item.layout {
+    margin: 14px 0px 14px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-logo-item.layout {
+    margin: 12px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-logo-item.layout {
+    margin: 10px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-logo-item.layout {
+    margin: 9px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-logo-item.layout {
+    margin: 8px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-logo-item.layout {
+    margin: 8px 15px;
+  }
+}
+.header-block-logo-item-gambar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 42px;
+}
+.konsultasi-image {
+  background: var(--src) center center/contain no-repeat;
+}
+.konsultasi-image.layout {
+  position: relative;
+  height: 58px;
+  width: 42px;
+  min-width: 42px;
+}
+.header-block-logo-item-gambar1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 100px;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title-box {
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+}
+.header-block-medium-title-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.header-block-medium-title {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Port Lligat Sans", Helvetica, Arial, serif;
+  color: #383838;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .header-block-medium-title {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-medium-title {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-medium-title {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-medium-title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-medium-title {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .header-block-medium-title {
+    font-size: 16px;
+  }
+}
+.header-block1-spacer {
+  flex: 1 1 446px;
+}
+.konsultasi-block1-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 818px;
+}
+.header-block-item {
+  display: flex;
+}
+.header-block-item.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 818px;
+  min-width: 818px;
+  margin: 20px 0px;
+}
+@media (max-width: 1199px) {
+  .header-block-item.layout {
+    margin: 18px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .header-block-item.layout {
+    margin: 15px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .header-block-item.layout {
+    margin: 13px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .header-block-item.layout {
+    margin: 11px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .header-block-item.layout {
+    margin: 10px 0px;
+  }
+}
+.header-block-item-link {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 0 auto;
+}
+.konsultasi-medium-title1 {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-layanan {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-konsultasi {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-testimoni {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-kerjasama {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.header-block-item-tentang {
+  display: flex;
+  justify-content: center;
+  font: 24px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: #383838;
+  text-align: center;
+  letter-spacing: 0px;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-medium-title1:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-layanan:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-konsultasi:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-testimoni:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-kerjasama:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.header-block-item-tentang:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-medium-title1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-layanan.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-tentang.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-testimoni.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-kerjasama.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-konsultasi.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 7px 0px 14px;
+}
+.header-block-item-spacer {
+  flex: 0 1 24px;
+}
+.header-block-item-spacer1 {
+  flex: 0 1 27px;
+}
+.header-block-item-link1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 50px;
+}
+.header-profil-icon {
+  background: var(--src) center center/contain no-repeat;
+  cursor: pointer;
+}
+.header-profil-icon.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+}
+.konsultasi-block4 {
+  display: flex;
+  flex-direction: column;
+  background-color: #252323;
+  border-radius: 5px 5px 5px 5px;
+}
+.konsultasi-block4.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 68.19%;
+  margin: 36px auto 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block4.layout {
+    width: 74.08%;
+    margin: 31px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block4.layout {
+    width: 79.21%;
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block4.layout {
+    width: 83.55%;
+    margin: 22px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block4.layout {
+    width: 87.14%;
+    margin: 20px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block4.layout {
+    width: 90.03%;
+    margin: 17px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-block4.layout {
+    width: 92.33%;
+    margin: 16px auto 0px;
+  }
+}
+.konsultasi-image1 {
+  background: var(--src) center center/contain no-repeat;
+}
+.konsultasi-image1.layout {
+  position: relative;
+  height: 179px;
+  width: 18.23%;
+  margin: 157px auto;
+}
+@media (max-width: 1199px) {
+  .konsultasi-image1.layout {
+    margin: 126px auto;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-image1.layout {
+    margin: 92px auto;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-image1.layout {
+    margin: 63px auto;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-image1.layout {
+    margin: 48px auto;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-image1.layout {
+    margin: 34px auto;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-image1.layout {
+    margin: 24px auto;
+  }
+}
+.konsultasi-group {
+  display: flex;
+  flex-direction: column;
+}
+.konsultasi-group.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 9.44%;
+  margin: 36px auto 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-group.layout {
+    margin: 31px auto 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-group.layout {
+    margin: 26px auto 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-group.layout {
+    margin: 22px auto 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-group.layout {
+    margin: 20px auto 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-group.layout {
+    margin: 17px auto 0px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-group.layout {
+    margin: 16px auto 0px;
+  }
+}
+.konsultasi-medium-title2-box {
+  display: flex;
+  justify-content: flex-end;
+}
+@media (max-width: 1199px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-medium-title2-box {
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+}
+.konsultasi-medium-title2-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.konsultasi-medium-title2 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 24px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .konsultasi-medium-title2 {
+    font-size: 22px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-medium-title2 {
+    font-size: 20px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-medium-title2 {
+    font-size: 19px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-medium-title2 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-medium-title2 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-medium-title2 {
+    font-size: 16px;
+  }
+}
+.konsultasi-flex {
+  display: flex;
+}
+.konsultasi-flex.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 76.11%;
+  margin: 48px 10.9% 67px 12.99%;
+}
+@media (max-width: 1199px) {
+  .konsultasi-flex.layout {
+    margin: 41px 10.9% 58px 12.99%;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-flex.layout {
+    margin: 33px 10.9% 47px 12.99%;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-flex.layout {
+    margin: 27px 10.9% 38px 12.99%;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-flex.layout {
+    margin: 24px 10.9% 34px 12.99%;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-flex.layout {
+    margin: 20px 10.9% 30px 12.99%;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-flex.layout {
+    margin: 18px 10.9% 27px 12.99%;
+  }
+}
+.konsultasi-flex-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 543px;
+}
+.konsultasi-flex1 {
+  display: flex;
+}
+.konsultasi-flex1.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 0px 320px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 249px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 171px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 105px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 72px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 39px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-flex1.layout {
+    margin: 0px 0px 16px;
+  }
+}
+.konsultasi-flex-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 226px;
+}
+.konsultasi-block7 {
+  display: flex;
+  flex-direction: column;
+}
+.konsultasi-block7.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.konsultasi-image2 {
+  background: var(--src) center center/contain no-repeat;
+}
+.konsultasi-image2.layout {
+  position: relative;
+  height: 205px;
+  margin: 0px 15px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-image2.layout {
+    margin: 0px 13px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-image2.layout {
+    margin: 0px 11px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-image2.layout {
+    margin: 0px 9px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-image2.layout {
+    margin: 0px 8px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-image2.layout {
+    margin: 0px 7px;
+  }
+}
+.konsultasi-highlights {
+  display: flex;
+  justify-content: center;
+  font: 16px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights {
+    font-size: 12px;
+  }
+}
+.konsultasi-highlights.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 12px 0px 16px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights.layout {
+    margin: 11px 0px 14px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights.layout {
+    margin: 9px 0px 12px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights.layout {
+    margin: 8px 0px 10px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights.layout {
+    margin: 7px 0px 9px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights.layout {
+    margin: 6px 0px 8px;
+  }
+}
+.konsultasi-flex-item2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 317px;
+}
+.konsultasi-block8 {
+  display: flex;
+  flex-direction: column;
+}
+.konsultasi-block8.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 66px 0px 61px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block8.layout {
+    margin: 57px 0px 52px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block8.layout {
+    margin: 47px 0px 43px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block8.layout {
+    margin: 38px 0px 35px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block8.layout {
+    margin: 33px 0px 31px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block8.layout {
+    margin: 29px 0px 27px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-block8.layout {
+    margin: 26px 0px 24px;
+  }
+}
+.konsultasi-highlights1-box {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights1-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights1-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights1-box {
+    align-items: center;
+    justify-content: flex-start;
+  }
+}
+.konsultasi-highlights1-box.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 33px 0px 34px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 29px 0px 30px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 24px 0px 25px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 20px 0px 21px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 18px 0px 19px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 16px 0px 17px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-highlights1-box.layout {
+    margin: 0px 15px;
+  }
+}
+.konsultasi-highlights1 {
+  overflow: visible;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin: 0px;
+  font: 15px/1.2 "Krona One", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+  white-space: pre-wrap;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights1 {
+    font-size: 14px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights1 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights1 {
+    font-size: 12px;
+  }
+}
+.konsultasi-block9 {
+  display: flex;
+}
+.konsultasi-block9.layout {
+  position: relative;
+  height: 50px;
+  margin: 0px 0px 0px;
+}
+.konsultasi-block9-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 144px;
+}
+.konsultasi-icon1 {
+  background: var(--src) center center/contain no-repeat;
+  border-radius: 25px 25px 25px 25px;
+  cursor: pointer;
+}
+.konsultasi-icon1.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+  margin: 0px 0px 0px 94px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 78px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 61px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 47px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 39px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 32px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-icon1.layout {
+    margin: 0px 0px 0px 27px;
+  }
+}
+.konsultasi-block9-spacer {
+  flex: 0 1 30px;
+}
+.konsultasi-block9-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 143px;
+}
+.konsultasi-icon2 {
+  background: var(--src) center center/contain no-repeat;
+  border-radius: 24.76px 24.76px 24.76px 24.76px;
+  cursor: pointer;
+}
+.konsultasi-icon2.layout {
+  position: relative;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+  margin: 0px 93px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 77px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 61px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 46px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 39px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 32px 0px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-icon2.layout {
+    margin: 0px 27px 0px 0px;
+  }
+}
+.konsultasi-flex-item3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 553px;
+}
+.konsultasi-flex11 {
+  display: flex;
+  flex-direction: column;
+}
+.konsultasi-flex11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 6px 1px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-flex11.layout {
+    margin: 5px 5px 0px 0px;
+  }
+}
+.konsultasi-block11 {
+  display: flex;
+  flex-direction: column;
+  background-color: #4fd6f7;
+  border: 1px solid black;
+  border-radius: 10px 10px 10px 10px;
+}
+.konsultasi-block11.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 0px 1px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block11.layout {
+    margin: 0px 5px 0px 0px;
+  }
+}
+.konsultasi-block12 {
+  display: flex;
+}
+.konsultasi-block12.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 20px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block12.layout {
+    margin: 18px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block12.layout {
+    margin: 15px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block12.layout {
+    margin: 13px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block12.layout {
+    margin: 11px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block12.layout {
+    margin: 10px 0px 0px;
+  }
+}
+.konsultasi-block12-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 80px;
+}
+.konsultasi-icon3 {
+  background: var(--src) center center/contain no-repeat;
+}
+.konsultasi-icon3.layout {
+  position: relative;
+  height: 62px;
+  width: 60px;
+  min-width: 60px;
+  margin: 0px 0px 0px 20px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-icon3.layout {
+    margin: 0px 0px 0px 18px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-icon3.layout {
+    margin: 0px 0px 0px 15px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-icon3.layout {
+    margin: 0px 0px 0px 13px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-icon3.layout {
+    margin: 0px 0px 0px 11px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-icon3.layout {
+    margin: 0px 0px 0px 10px;
+  }
+}
+.konsultasi-block12-spacer {
+  flex: 0 1 6px;
+}
+.konsultasi-block12-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 465px;
+}
+.konsultasi-block13 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 20px 20px 20px 20px;
+}
+.konsultasi-block13.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 6px 165px 6px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block13.layout {
+    margin: 5px 132px 5px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block13.layout {
+    margin: 5px 96px 5px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block13.layout {
+    margin: 5px 65px 5px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block13.layout {
+    margin: 5px 49px 5px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block13.layout {
+    margin: 5px 34px 5px 0px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-block13.layout {
+    margin: 5px 24px 5px 0px;
+  }
+}
+.konsultasi-highlights2 {
+  display: flex;
+  justify-content: flex-end;
+  font: 16px/1.2 "Arimo", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights2 {
+    font-size: 15px;
+    text-align: right;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights2 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights2 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights2 {
+    font-size: 12px;
+  }
+}
+.konsultasi-highlights2.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 192px;
+  min-width: 192px;
+  margin: 16px auto 14px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights2.layout {
+    margin: 14px auto 12px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights2.layout {
+    margin: 12px auto 10px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights2.layout {
+    margin: 10px auto 9px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights2.layout {
+    margin: 9px auto 8px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights2.layout {
+    margin: 8px auto 7px;
+  }
+}
+.konsultasi-block14 {
+  display: flex;
+  justify-content: flex-end;
+}
+.konsultasi-block14.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 38px 0px 330px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block14.layout {
+    margin: 33px 0px 256px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block14.layout {
+    margin: 27px 0px 176px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block14.layout {
+    margin: 23px 0px 108px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block14.layout {
+    margin: 20px 0px 73px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block14.layout {
+    margin: 18px 0px 39px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-block14.layout {
+    margin: 16px 0px;
+  }
+}
+.konsultasi-block14-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 472px;
+}
+.konsultasi-block15 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 20px 20px 20px 20px;
+}
+.konsultasi-block15.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 2px 0px 1px 342px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 265px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 182px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 111px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 75px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 39px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-block15.layout {
+    margin: 5px 0px 5px 15px;
+  }
+}
+.konsultasi-highlights21 {
+  font: 16px/1.2 "Arimo", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights21 {
+    font-size: 15px;
+    text-align: left;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights21 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights21 {
+    font-size: 13px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights21 {
+    font-size: 12px;
+  }
+}
+.konsultasi-highlights21.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  width: 69px;
+  min-width: 69px;
+  margin: 16px 29px 14px 32px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-highlights21.layout {
+    margin: 14px 25px 12px 28px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-highlights21.layout {
+    margin: 12px 22px 10px 24px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-highlights21.layout {
+    margin: 10px 18px 9px 20px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-highlights21.layout {
+    margin: 9px 17px 8px 18px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-highlights21.layout {
+    margin: 8px 15px 7px 16px;
+  }
+}
+@media (max-width: 383px) {
+  .konsultasi-highlights21.layout {
+    margin: 8px 14px 7px 15px;
+  }
+}
+.konsultasi-block14-spacer {
+  flex: 0 1 6px;
+}
+.konsultasi-block14-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 73px;
+}
+.konsultasi-icon4 {
+  background: var(--src) center center/contain no-repeat;
+}
+.konsultasi-icon4.layout {
+  position: relative;
+  height: 53px;
+  width: 53px;
+  min-width: 53px;
+  margin: 0px 20px 0px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-icon4.layout {
+    margin: 0px 18px 0px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-icon4.layout {
+    margin: 0px 15px 0px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-icon4.layout {
+    margin: 0px 13px 0px 0px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-icon4.layout {
+    margin: 0px 11px 0px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-icon4.layout {
+    margin: 0px 10px 0px 0px;
+  }
+}
+.konsultasi-block16 {
+  display: flex;
+}
+.konsultasi-block16.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 12px 0px 0px 1px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block16.layout {
+    margin: 11px 0px 0px 5px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block16.layout {
+    margin: 9px 0px 0px 5px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block16.layout {
+    margin: 8px 0px 0px 5px;
+  }
+}
+@media (max-width: 575px) {
+  .konsultasi-block16.layout {
+    margin: 7px 0px 0px 5px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block16.layout {
+    margin: 6px 0px 0px 5px;
+  }
+}
+.konsultasi-block16-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 464px;
+}
+.konsultasi-block17 {
+  display: flex;
+  flex-direction: column;
+  background-color: #4fd6f7;
+  border: 1px solid black;
+  border-radius: 20px 20px 20px 20px;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-block17:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-block17.layout {
+  position: relative;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin: 10px 0px;
+}
+@media (max-width: 1199px) {
+  .konsultasi-block17.layout {
+    margin: 9px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-block17.layout {
+    margin: 7px 0px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-block17.layout {
+    margin: 6px 0px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-block17.layout {
+    margin: 5px 0px;
+  }
+}
+.konsultasi-subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 20px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+}
+@media (max-width: 1199px) {
+  .konsultasi-subtitle {
+    font-size: 19px;
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .konsultasi-subtitle {
+    font-size: 18px;
+  }
+}
+@media (max-width: 767px) {
+  .konsultasi-subtitle {
+    font-size: 17px;
+  }
+}
+@media (max-width: 479px) {
+  .konsultasi-subtitle {
+    font-size: 16px;
+  }
+}
+.konsultasi-block16-spacer {
+  flex: 0 1 14px;
+}
+.konsultasi-block16-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 72px;
+}
+.konsultasi-icon5 {
+  background: var(--src) center center/contain no-repeat;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-property: filter;
+}
+.konsultasi-icon5:hover {
+  filter: drop-shadow(0 0 10px #00000080);
+}
+.konsultasi-icon5.layout {
+  position: relative;
+  height: 71px;
+  width: 72px;
+  min-width: 72px;
+}
